@@ -1,0 +1,36 @@
+﻿@using System.Web.Optimization
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>eUse System | @ViewBag.Title</title>
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900" rel="stylesheet" type="text/css">
+
+    @Styles.Render("~/bundles/bootstrap.min/css")
+    @Styles.Render("~/bundles/material/css")
+    @Styles.Render("~/bundles/icon/css")
+    @Styles.Render("~/bundles/variable/scss")
+    @Styles.Render("~/bundles/main/scss")
+
+    @if (IsSectionDefined("Styles"))
+    {@RenderSection("Styles", required: false)}
+
+    @Styles.Render("~/bundles/main/css")
+</head>
+<body>
+    @Html.Partial("_Home")
+    @Html.Partial("_HeaderNav")
+    @RenderBody()
+    @Scripts.Render("~/bundles/min/scss")
+    @Scripts.Render("~/bundles/bundle/scss")
+    @Scripts.Render("~/bundles/easing/scss")
+    @Scripts.Render("~/bundles/crollspy/scss")
+    @Scripts.Render("~/bundles/counter/scss")
+    @Scripts.Render("~/bundles/app/scss")
+    @Scripts.Render("~/bundles/contact/php")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

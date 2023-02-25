@@ -21,8 +21,20 @@
     @Styles.Render("~/bundles/main/css")
 </head>
 <body>
-    @Html.Partial("_Home")
+    @*@Html.Partial("_Counter")
+
+        @Html.Partial("_Features")
+
+        @Html.Partial("_Footer")*@
+
     @Html.Partial("_HeaderNav")
+
+    @Html.Partial("_Home")
+
+    @*@Html.Partial("_Services")
+
+        @Html.Partial("_Testimonial")*@
+
     @RenderBody()
     @Scripts.Render("~/bundles/min/scss")
     @Scripts.Render("~/bundles/bundle/scss")

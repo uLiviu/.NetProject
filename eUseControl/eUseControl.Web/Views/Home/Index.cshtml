@@ -10,16 +10,18 @@
     <div class="col-md-12">
         <div class="table">
             <table class="table table-bordered">
-                <thead>
-                <tr>PRODUCT</tr>
+                <thead class="thead-dark">
+                <tr>
+                    <th scope="col">PRODUCT</th>
+                </tr>
                 </thead>
                 <tbody>
                     @using (Html.BeginForm("Product", "Home", FormMethod.Post, new { autocomplete = "off" }))
                     {
                         foreach (var prod in Model.Products)
                         {
-                            <tr>
-                                <td>@prod</td>
+                            <tr class="thead-dark">
+                                <th scope="row">@prod</th>
                                 <td>
                                     <button style="float: right" class="btn btn-primary btn-xs" name="btn" 
                                             type="submit" value="@prod">View</button>

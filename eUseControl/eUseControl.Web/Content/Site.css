@@ -15,4 +15,9 @@ select,
 textarea {
     max-width: 280px;
 }
+.h2 {
+    border-bottom: 3px solid #cc9900;
+    font: Georgia, serif;
+    color: #996600;
+}
 

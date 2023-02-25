@@ -23,6 +23,8 @@ namespace eUseControl.Web
                 "~/Content/assets/scss/_variable.scss", new CssRewriteUrlTransform()));
             bundles.Add(new StyleBundle("~/bundles/main/scss").Include(
                 "~/Content/assets/scss/style.scss", new CssRewriteUrlTransform()));
+            bundles.Add(new StyleBundle("~/bundles/site/css").Include(
+                "~/Content/Site.css", new CssRewriteUrlTransform()));
 
             //FolderJs
             bundles.Add(new ScriptBundle("~/bundles/app/scss").Include(

@@ -1,0 +1,65 @@
+﻿@using System.Web.Optimization
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+    <title>TestTemplate | @ViewBag.Title </title>
+
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.gstatic.com" rel="preconnect">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Nunito:300,300i,400,400i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+    <!-- Favicons -->
+    <link href="Content/img/favicon.png" rel="icon">
+    <link href="Content/img/apple-touch-icon.png" rel="apple-touch-icon">
+    <!-- Vendor CSS Files -->
+    @Styles.Render("~/bundles/bootstrap/css")
+    @Styles.Render("~/bundles/bootstrap-icons/css")
+    @Styles.Render("~/bundles/boxicons/css")
+    @Styles.Render("~/bundles/quill.snow/css")
+    @Styles.Render("~/bundles/quill.bubble/css")
+    @Styles.Render("~/bundles/remixicon/css")
+    @Styles.Render("~/bundles/simple-datatables/css")
+
+    @if(IsSectionDefined("Styles"))
+    {@RenderSection("Styles", required: false)}
+
+    @*Primary Home Style*@
+    @Styles.Render("~/bundles/main/css")
+
+</head>
+<body>
+    <div class="wrapper">
+        <!-- ======= Header ======= -->
+        <header id="header" class="header fixed-top d-flex align-items-center">
+        @Html.Partial("_Header");
+        </header>
+
+        <!-- ======= Sidebar ======= -->
+        <aside id="sidebar" class="sidebar">
+            @Html.Partial("_SideBar");
+        </aside>
+
+        <!-- ======= Main ======= -->
+        <main id="main" class="main">
+        @Html.Partial("_Main")
+    </main>
+        <!-- ======= Footer ======= -->
+        <footer id="footer" class="footer">
+            @Html.Partial("_Footer")
+    </footer>
+        @RenderBody()
+
+        <!--Vendor JS Files-->
+        @Scripts.Render("~/bundles/apexcharts/js")
+        @Scripts.Render("~/bundles/simple-datatables/js")
+        @Scripts.Render("~/bundles/validate/js")
+        <!--Template Main JS File-->
+        @Scripts.Render("~/bundles/main/js")
+
+        @RenderSection("scripts", required: false)
+    </div>
+</body>
+</html>

@@ -20,22 +20,43 @@ namespace eUseControl.Web.Controllers
             return View(u);
         }
 
-        public ActionResult Product()
+        //public ActionResult Product()
+        //{
+        //    var product = Request.QueryString["p"];
+
+        //    UserData u = new UserData();
+        //    u.UserName = "Customer";
+        //    u.SingleProduct = product;
+
+        //    return View(u);
+        //}
+
+        ////http://localhost:31843/Home/Product?p=JORA
+        //[HttpPost]
+        //public ActionResult Product(string btn)
+        //{
+        //    return RedirectToAction("Product", "Home", new { @p = btn });
+        //}
+        @section Scripts
         {
-            var product = Request.QueryString["p"];
-
-            UserData u = new UserData();
-            u.UserName = "Customer";
-            u.SingleProduct = product;
-
-            return View(u);
-        }
-
-        //http://localhost:31843/Home/Product?p=JORA
-        [HttpPost]
-        public ActionResult Product(string btn)
+            @Scripts.Render("~/bundles/unobstrusive/js")
+        <script type = "text/javascript" >
+                       function succes(data)
         {
-            return RedirectToAction("Product", "Home", new { @p = btn });
+            if (data.RedirectUrl)
+            {
+                window.location.href = data.RedirectUrl;
+            }
+            else
+            {
+                $("#restulTarget").text(data.msg);
+            }
         }
+        </script>
+    }
+    [HttpPost]
+    public ActionResult Product(string btn)
+    {
+        return Json(new { RedirectUrl = UrlHelper.Action("Product", new { p = btn }) });
     }
 }

@@ -1,0 +1,17 @@
+D:\Universitate\Semestrul IV\Proiect\Exemplu\Project\eUseControl\eUseControl.BusinesLogic\bin\Debug\net7.0\eUseControl.BusinesLogic.deps.json
+D:\Universitate\Semestrul IV\Proiect\Exemplu\Project\eUseControl\eUseControl.BusinesLogic\bin\Debug\net7.0\eUseControl.BusinesLogic.dll
+D:\Universitate\Semestrul IV\Proiect\Exemplu\Project\eUseControl\eUseControl.BusinesLogic\bin\Debug\net7.0\eUseControl.BusinesLogic.pdb
+D:\Universitate\Semestrul IV\Proiect\Exemplu\Project\eUseControl\eUseControl.BusinesLogic\bin\Debug\net7.0\eUseControl.Domain.dll
+D:\Universitate\Semestrul IV\Proiect\Exemplu\Project\eUseControl\eUseControl.BusinesLogic\bin\Debug\net7.0\eUseControl.Helpers.dll
+D:\Universitate\Semestrul IV\Proiect\Exemplu\Project\eUseControl\eUseControl.BusinesLogic\bin\Debug\net7.0\eUseControl.Domain.pdb
+D:\Universitate\Semestrul IV\Proiect\Exemplu\Project\eUseControl\eUseControl.BusinesLogic\bin\Debug\net7.0\eUseControl.Helpers.pdb
+D:\Universitate\Semestrul IV\Proiect\Exemplu\Project\eUseControl\eUseControl.BusinesLogic\obj\Debug\net7.0\eUseControl.BusinesLogic.csproj.AssemblyReference.cache
+D:\Universitate\Semestrul IV\Proiect\Exemplu\Project\eUseControl\eUseControl.BusinesLogic\obj\Debug\net7.0\eUseControl.BusinesLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universitate\Semestrul IV\Proiect\Exemplu\Project\eUseControl\eUseControl.BusinesLogic\obj\Debug\net7.0\eUseControl.BusinesLogic.AssemblyInfoInputs.cache
+D:\Universitate\Semestrul IV\Proiect\Exemplu\Project\eUseControl\eUseControl.BusinesLogic\obj\Debug\net7.0\eUseControl.BusinesLogic.AssemblyInfo.cs
+D:\Universitate\Semestrul IV\Proiect\Exemplu\Project\eUseControl\eUseControl.BusinesLogic\obj\Debug\net7.0\eUseControl.BusinesLogic.csproj.CoreCompileInputs.cache
+D:\Universitate\Semestrul IV\Proiect\Exemplu\Project\eUseControl\eUseControl.BusinesLogic\obj\Debug\net7.0\eUseControl.BusinesLogic.csproj.CopyComplete
+D:\Universitate\Semestrul IV\Proiect\Exemplu\Project\eUseControl\eUseControl.BusinesLogic\obj\Debug\net7.0\eUseControl.BusinesLogic.dll
+D:\Universitate\Semestrul IV\Proiect\Exemplu\Project\eUseControl\eUseControl.BusinesLogic\obj\Debug\net7.0\refint\eUseControl.BusinesLogic.dll
+D:\Universitate\Semestrul IV\Proiect\Exemplu\Project\eUseControl\eUseControl.BusinesLogic\obj\Debug\net7.0\eUseControl.BusinesLogic.pdb
+D:\Universitate\Semestrul IV\Proiect\Exemplu\Project\eUseControl\eUseControl.BusinesLogic\obj\Debug\net7.0\ref\eUseControl.BusinesLogic.dll

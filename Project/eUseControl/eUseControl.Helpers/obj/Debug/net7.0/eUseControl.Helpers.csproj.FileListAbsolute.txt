@@ -1,0 +1,12 @@
+D:\Universitate\Semestrul IV\Proiect\Exemplu\Project\eUseControl\eUseControl.Helpers\bin\Debug\net7.0\eUseControl.Helpers.deps.json
+D:\Universitate\Semestrul IV\Proiect\Exemplu\Project\eUseControl\eUseControl.Helpers\bin\Debug\net7.0\eUseControl.Helpers.dll
+D:\Universitate\Semestrul IV\Proiect\Exemplu\Project\eUseControl\eUseControl.Helpers\bin\Debug\net7.0\eUseControl.Helpers.pdb
+D:\Universitate\Semestrul IV\Proiect\Exemplu\Project\eUseControl\eUseControl.Helpers\obj\Debug\net7.0\eUseControl.Helpers.csproj.AssemblyReference.cache
+D:\Universitate\Semestrul IV\Proiect\Exemplu\Project\eUseControl\eUseControl.Helpers\obj\Debug\net7.0\eUseControl.Helpers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universitate\Semestrul IV\Proiect\Exemplu\Project\eUseControl\eUseControl.Helpers\obj\Debug\net7.0\eUseControl.Helpers.AssemblyInfoInputs.cache
+D:\Universitate\Semestrul IV\Proiect\Exemplu\Project\eUseControl\eUseControl.Helpers\obj\Debug\net7.0\eUseControl.Helpers.AssemblyInfo.cs
+D:\Universitate\Semestrul IV\Proiect\Exemplu\Project\eUseControl\eUseControl.Helpers\obj\Debug\net7.0\eUseControl.Helpers.csproj.CoreCompileInputs.cache
+D:\Universitate\Semestrul IV\Proiect\Exemplu\Project\eUseControl\eUseControl.Helpers\obj\Debug\net7.0\eUseControl.Helpers.dll
+D:\Universitate\Semestrul IV\Proiect\Exemplu\Project\eUseControl\eUseControl.Helpers\obj\Debug\net7.0\refint\eUseControl.Helpers.dll
+D:\Universitate\Semestrul IV\Proiect\Exemplu\Project\eUseControl\eUseControl.Helpers\obj\Debug\net7.0\eUseControl.Helpers.pdb
+D:\Universitate\Semestrul IV\Proiect\Exemplu\Project\eUseControl\eUseControl.Helpers\obj\Debug\net7.0\ref\eUseControl.Helpers.dll

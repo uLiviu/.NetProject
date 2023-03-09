@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "eUseControl.Domain/1.0.0": {
+        "dependencies": {
+          "eUseControl.Helpers": "1.0.0"
+        },
+        "runtime": {
+          "eUseControl.Domain.dll": {}
+        }
+      },
+      "eUseControl.Helpers/1.0.0": {
+        "runtime": {
+          "eUseControl.Helpers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "eUseControl.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "eUseControl.Helpers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

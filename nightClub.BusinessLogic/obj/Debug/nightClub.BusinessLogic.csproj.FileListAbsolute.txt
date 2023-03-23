@@ -1,0 +1,16 @@
+E:\TW\nightClub\nightClub.BusinessLogic\bin\Debug\nightClub.BusinessLogic.dll
+E:\TW\nightClub\nightClub.BusinessLogic\bin\Debug\nightClub.BusinessLogic.pdb
+E:\TW\nightClub\nightClub.BusinessLogic\bin\Debug\nightClub.Domain.dll
+E:\TW\nightClub\nightClub.BusinessLogic\bin\Debug\nightClub.Helpers.dll
+E:\TW\nightClub\nightClub.BusinessLogic\bin\Debug\nightClub.Domain.pdb
+E:\TW\nightClub\nightClub.BusinessLogic\bin\Debug\nightClub.Helpers.pdb
+E:\TW\nightClub\nightClub.BusinessLogic\obj\Debug\nightClub.BusinessLogic.csproj.AssemblyReference.cache
+E:\TW\nightClub\nightClub.BusinessLogic\obj\Debug\nightClub.BusinessLogic.csproj.CoreCompileInputs.cache
+E:\TW\nightClub\nightClub.BusinessLogic\obj\Debug\nightClub.BusinessLogic.csproj.CopyComplete
+E:\TW\nightClub\nightClub.BusinessLogic\obj\Debug\nightClub.BusinessLogic.dll
+E:\TW\nightClub\nightClub.BusinessLogic\obj\Debug\nightClub.BusinessLogic.pdb
+E:\TW\nightClub\nightClub.BusinessLogic\bin\Debug\nightClub.BusinessLogic.dll.config
+E:\TW\nightClub\nightClub.BusinessLogic\bin\Debug\EntityFramework.dll
+E:\TW\nightClub\nightClub.BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+E:\TW\nightClub\nightClub.BusinessLogic\bin\Debug\EntityFramework.xml
+E:\TW\nightClub\nightClub.BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml

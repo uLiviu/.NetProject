@@ -1,0 +1,9 @@
+E:\TW\nightClub\nightClub.Domain\bin\Debug\nightClub.Domain.dll
+E:\TW\nightClub\nightClub.Domain\bin\Debug\nightClub.Domain.pdb
+E:\TW\nightClub\nightClub.Domain\bin\Debug\nightClub.Helpers.dll
+E:\TW\nightClub\nightClub.Domain\bin\Debug\nightClub.Helpers.pdb
+E:\TW\nightClub\nightClub.Domain\obj\Debug\nightClub.Domain.csproj.AssemblyReference.cache
+E:\TW\nightClub\nightClub.Domain\obj\Debug\nightClub.Domain.csproj.CoreCompileInputs.cache
+E:\TW\nightClub\nightClub.Domain\obj\Debug\nightClub.Domain.csproj.CopyComplete
+E:\TW\nightClub\nightClub.Domain\obj\Debug\nightClub.Domain.dll
+E:\TW\nightClub\nightClub.Domain\obj\Debug\nightClub.Domain.pdb

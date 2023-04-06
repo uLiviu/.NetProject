@@ -1,6 +1,0 @@
-E:\TW\nightClub\nightClub.Helpers\bin\Debug\nightClub.Helpers.dll
-E:\TW\nightClub\nightClub.Helpers\bin\Debug\nightClub.Helpers.pdb
-E:\TW\nightClub\nightClub.Helpers\obj\Debug\nightClub.Helpers.csproj.AssemblyReference.cache
-E:\TW\nightClub\nightClub.Helpers\obj\Debug\nightClub.Helpers.csproj.CoreCompileInputs.cache
-E:\TW\nightClub\nightClub.Helpers\obj\Debug\nightClub.Helpers.dll
-E:\TW\nightClub\nightClub.Helpers\obj\Debug\nightClub.Helpers.pdb
